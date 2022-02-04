@@ -7,5 +7,5 @@ server.create(config);
 //start the server
 server.start();
 
-// BasePath http://localhost:3000/api/v1/seller
+// BasePath http://localhost:3000/api/v1
 
